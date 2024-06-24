@@ -1,4 +1,4 @@
 
-const companyName = 'scumber';
+const companyName = 'scuber';
 let mostProfitableNeighborhood = 'Chelsea';
-let companyCeo = 'susan smith';
+let companyCeo = 'susan Smith';
